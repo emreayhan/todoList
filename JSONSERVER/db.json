@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "firstname": "emre",
+      "lastname": "ayhan",
+      "id": "1",
+      "username": "eayhan",
+      "email": "emre.ayhan@gmail.com",
+      "password": "12345",
+      "status": true,
+      "todos": [
+        { "name": "kitap oku", "completed": true },
+        { "name": "müzik dinle", "completed": false },
+        { "name": "spor yap", "completed": false }
+      ]
+    },
+    {
+      "id": "2",
+      "firstname": "mahmud",
+      "lastname": "apak",
+      "username": "mapak",
+      "email": "mahmud.apak@gmail.com",
+      "password": "54321",
+      "status": false
+    },
+    {
+      "firstname": "ahmet",
+      "lastname": "deniz",
+      "email": "ahmet@gmail.com",
+      "password": "ahmet",
+      "id": "flr0yBQ",
+      "status": true,
+      "username": "adeniz"
+    }
+  ]
+}
